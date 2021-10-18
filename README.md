@@ -5,4 +5,4 @@ Design and implementation of a program to play three-dimensional connect four be
 
 The output will be looking like this:
 
-![Preview](https://github.com/cazdev/ConnectFour3D-AI/blob/master/img-path/Capture.PNG)
+![Preview](https://raw.githubusercontent.com/cazdev/ConnectFour3D-AI/main/img-path/Capture.PNG)
